@@ -1,0 +1,1236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Future",
+				"Hybrid Native Future 2.png	w:869 h:635"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"s",
+				"shooting-small.jpg	w:600 h:871"
+			],
+			[
+				"document",
+				"documentElement"
+			],
+			[
+				"consle",
+				"console.log();"
+			],
+			[
+				"WWW",
+				"WWW-Screenshot - X.png	w:256 h:256"
+			],
+			[
+				"br",
+				"not-a-browser.png	w:256 h:256"
+			],
+			[
+				"plugin",
+				"plugin-icon.jpg	w:300 h:300"
+			],
+			[
+				"jabb",
+				"Jabber.png	w:441 h:442"
+			],
+			[
+				"opaci",
+				"opacity	zen:css_properties"
+			],
+			[
+				"ip",
+				"facetime-icon.jpg	w:300 h:300"
+			],
+			[
+				"iphon",
+				"iphone_chat.png	w:128 h:128"
+			],
+			[
+				"m",
+				"mail.png	w:128 h:128"
+			],
+			[
+				"i",
+				"iphone_cal.png	w:128 h:128"
+			],
+			[
+				"con",
+				"iphone-contacts.jpg	w:482 h:485"
+			],
+			[
+				"Ca",
+				"Canvas ArchOct14/"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"background",
+				"backgroundimages"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"slide",
+				"slide-bullets-build	html5-pres-bullets-build"
+			],
+			[
+				"slid",
+				"title-slide"
+			],
+			[
+				"pre",
+				"pres-slide-bullets-build	html5-pres-bullets-build"
+			],
+			[
+				"html",
+				"HTML5"
+			],
+			[
+				"move",
+				"move_up"
+			],
+			[
+				"fami",
+				"FamilyListItemView"
+			],
+			[
+				"FamilyMember",
+				"FamilyMember"
+			],
+			[
+				"fam",
+				"family-member-list-item"
+			],
+			[
+				"Family",
+				"FamilyMember"
+			],
+			[
+				"Fam",
+				"FamilyListView"
+			],
+			[
+				"Fa",
+				"FamilyListView"
+			],
+			[
+				"mon",
+				"mongodb"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"De",
+				"debug"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 16096,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> \n<html class=\"no-js\" > <!--<![endif]-->\n\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n        <title></title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width\">\n\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n\n        s\n        <link rel=\"stylesheet\" href=\"styles/main.css\">\n        <script src=\"scripts/vendor/modernizr.min.js\"></script>\n    </head>\n    <body>\n    <div class=\"container\" style=\"margin-top:50px\">\n        <div class=\"hero-unit\">\n            <h1>Hi Liam</h1>\n            <p>You now have</p>\n            <ul>\n                <li>HTML5 Boilerplate</li>\n                <li>Twitter Bootstrap</li>\n                <li>Twitter Bootstrap plugins</li>\n                <li>RequireJS</li>\n                <li>Support for ES6 Modules</li>\n            </ul>\n            <p>installed.</p>\n            <h3>Enjoy coding! - Yeomanddd</h3>\n        </div>\n    </div>\n\n        <!--[if lt IE 7]>\n            <p class=\"chromeframe\">You are using an outdated browser. <a href=\"http://browsehappy.com/\">Upgrade your browser today</a> or <a href=\"http://www.google.com/chromeframe/?redirect=true\">install Google Chrome Frame</a> to better experience this site.</p>\n        <![endif]-->\n\n        <!-- Add your site or application content here -->\n\n        <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js\"></script>\n        <script>window.jQuery || document.write('<script src=\"scripts/vendor/jquery.min.js\"><\\/script>')</script>\n        \n        \n\n        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n        <script>\n            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];\n            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];\n            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';\n            s.parentNode.insertBefore(g,s)}(document,'script'));\n        </script>\n    \n    <!-- build:js scripts/plugins.js -->\n    <script src=\"scripts/vendor/bootstrap/bootstrap-affix.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-alert.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-dropdown.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-tooltip.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-modal.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-transition.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-button.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-popover.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-typeahead.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-carousel.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-scrollspy.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-collapse.js\"></script>\n    <script src=\"scripts/vendor/bootstrap/bootstrap-tab.js\"></script>\n    <!-- endbuild -->\n\n    <!-- build:js scripts/amd-app.js -->\n    <script data-main=\"scripts/main\" src=\"scripts/vendor/require.js\"></script>\n    <!-- endbuild -->\n</body>\n</html>\n",
+			"file": "/Users/liam/git/local/chores/app/index.html",
+			"file_size": 3491,
+			"file_write_time": 1356667167000000,
+			"settings":
+			{
+				"buffer_size": 3487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/liam/.profile",
+			"settings":
+			{
+				"buffer_size": 4276,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/grunt/grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html jquer",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"rein	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"reind	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"scrip",
+				"Snippet: HTML - Script"
+			],
+			[
+				"snipp html ",
+				"Snippet: HTML - Script"
+			],
+			[
+				"snipp style",
+				"Snippet: HTML - Stylesheet link"
+			],
+			[
+				"snipp ",
+				"Snippet: HTML - Stylesheet link"
+			],
+			[
+				"snipp",
+				"Snippet: background+"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prev",
+				"Preview"
+			],
+			[
+				"prew",
+				"Preview"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp script",
+				"Snippet: <script> (jQuery google ajax api)"
+			],
+			[
+				"snip script",
+				"Snippet: <script> (code.jquery.com)"
+			],
+			[
+				"prei",
+				"Preview"
+			],
+			[
+				"preivew",
+				"Snippet: jQuery Mobile: Readonly listview"
+			],
+			[
+				"preview",
+				"Preview"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"red",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"previ",
+				"Preview"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ope",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"toggle",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ope ",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"oen",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"fineder",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"snipp styl",
+				"Snippet: <script> (jQuery google ajax api)"
+			],
+			[
+				"copy",
+				"File: Copy Path as URI"
+			],
+			[
+				"debug",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"prview",
+				"Preview"
+			],
+			[
+				"NEWFILE",
+				"File: New File Relative to Current View"
+			],
+			[
+				"pre",
+				"Preview"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snip node	",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			],
+			[
+				"prvi",
+				"Preview"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rend",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REIND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowerc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"npm",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"node",
+				"Nodejs::Debug::Run::Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Preview"
+			],
+			[
+				"op",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"slide",
+				"Snippet: slide-image-center-h-v"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"Snippet: prese",
+				"Snippet: html5-pres-bullets-build"
+			],
+			[
+				"Snippet: pres",
+				"Snippet: html5-pres-bullets-build"
+			],
+			[
+				"pres-se",
+				"Snippet: html5-pres-segue"
+			],
+			[
+				"html",
+				"Snippet: html5-pres-segue"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/liam/.profile",
+		"/Users/liam/git/local/css/GenericHighLevel.png",
+		"/Users/liam/git/mygithub/resume/README.md",
+		"/Users/liam/git/local/css/style.css",
+		"/Users/liam/git/local/css/index.html",
+		"/Users/liam/git/mygithub/resume/index.html",
+		"/Users/liam/git/local/css/style.sass",
+		"/Users/liam/git/presentations/clientarch/.gitignore",
+		"/Users/liam/git/mygithub/reveal.js/.gitignore",
+		"/etc/apache2/httpd.conf",
+		"/Users/liam/git/local/fruitTodo/src/example/button/button_api.html",
+		"/Users/liam/git/local/fruitTodo/src/index.html",
+		"/Users/liam/Dropbox/Work/Partners/Exopc/Cisco-VPN-20111106/README.txt",
+		"/Users/liam/git/github/todomvc/architecture-examples/angularjs/index.html",
+		"/Users/liam/git/github/todomvc/architecture-examples/backbone/index.html",
+		"/Users/liam/git/github/todomvc/index.html",
+		"/Users/liam/.bashrc",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/grunt/grunt.sublime-build",
+		"/Users/liam/git/local/nodegrunt/.gitignore",
+		"/Users/liam/git/local/testts/index.html",
+		"/Users/liam/git/local/typescript/samples/todomvc/README.txt",
+		"/Users/liam/git/local/testts/style.less",
+		"/Users/liam/git/local/testts/test.ts",
+		"/Users/liam/git/local/testts/test.js",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/TypeScript/typescript.tmLanguage",
+		"/Users/liam/Downloads/typescript_support_for_sublime_text/TypeScript support for Sublime Text/README-sublime-typescript.txt",
+		"/Users/liam/dev/jabber/style.less",
+		"/Users/liam/dev/jabber/test.ts",
+		"/Users/liam/dev/jabber/index.html",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
+		"/Users/liam/git/github/node-webkit/tests/tray/index.html",
+		"/Users/liam/git/github/node-webkit/README.md",
+		"/Users/liam/git/local/testnw/index.html",
+		"/Users/liam/git/local/testnw/package.json",
+		"/Users/liam/dev/node-webkit/.gclient",
+		"/Users/liam/git/github/node-webkit/tests/menu/package.json",
+		"/Users/liam/git/github/node-webkit/nw.gypi",
+		"/Users/liam/package.json",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/presenter_client.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/attendee_client.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/index.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/js/reveal.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/attendee_config.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/presenter_config.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/index.html",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/jabbercanvas.html",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/index_sample.html",
+		"/Users/liam/bin",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/presi.html",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/css/reveal.css",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/css/theme/jabbersimple.css",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/sencha_controller/app/view/controlpanel.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/config.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/sencha_controller/app/view/Main.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/controller_client.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/jquerymobile_controller/index.html",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/speakernotes/notes.html",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/.gitignore",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/.gitignore",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/speakernotes/index.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/presenter.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/js/defaultconfig.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/index.html",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/defaultconfig.js",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/plugin/presentationmode/client.js",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/liam/git/cisco/JabberCanvas/presentation/presentation.sublime-project",
+		"/Users/liam/github/cisco/JabberCanvas/presentation/index_sample.html",
+		"/Users/liam/github/cisco/JabberCanvas/presentation/index.html",
+		"/Users/liam/github/cisco/JabberCanvas/presentation/css/theme/jabbersimple.css",
+		"/Users/liam/github/cisco/JabberCanvas/presentation/css/reveal.css",
+		"/Users/liam/github/cisco/JabberCanvas/presentation/js/reveal.js",
+		"/Users/liam/Downloads/JabberSDK/samples/sample.html",
+		"/Users/liam/Downloads/JabberSDK/src/cwic/supplementaldocs.js",
+		"/Users/liam/Downloads/JabberSDK/src/cwic/cwic.js",
+		"/Users/liam/Downloads/JabberSDK/samples/sample_helpers.js",
+		"/Users/liam/Downloads/JabberSDK/samples/popout.html",
+		"/Users/liam/Downloads/JabberSDK/samples/pinp.html",
+		"/Users/liam/Downloads/JabberSDK/samples/bu.html",
+		"/Users/liam/Downloads/JabberSDK/samples/fullscreen.js",
+		"/Users/liam/Downloads/JabberSDK/samples/controls.html",
+		"/Users/liam/github/cisco/JabberCanvas/jabberweb/jabberweb.sublime-project",
+		"/Users/liam/github/cisco/JabberCanvas/jabberweb/jabberweb/README.md",
+		"/Users/liam/github/node-webkit/README.md",
+		"/Users/liam/github/cisco/JabberCanvas/jabberweb/jabberweb/app/client/src/js/JWeb.js",
+		"/Users/liam/github/cisco/JabberCanvas/jabberweb/jabberweb/app/client/src/js/index.js",
+		"/Users/liam/github/cisco/JabberCanvas/jabberweb/jabberweb/app/client/src/js/BrowserDetect.js",
+		"/Users/liam/github/enterprise/jabberweb/build.xml",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/liam/github/local/presentation/css/theme/futurama/futurama.css",
+		"/Users/liam/github/local/presentation/css/theme/jabber.css",
+		"/Users/liam/github/local/presentation/fruit-juice-v0.1 2/output-client/css/futurama.css",
+		"/Users/liam/github/local/presentation/css/theme/futurama.css",
+		"/Users/liam/github/local/JabberCanvas/apps/presentation-reveal-js/index.html",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/scripts/md/base.html",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/js/slide-deck.js",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/slide_config.js",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/HTML/slide-image-center-h-v.sublime-snippet",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/template.html",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/HTML/slide-bullets-build.sublime-snippet",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/HTML/slide-bullets.sublime-snippet",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/HTML/slide-segue.sublime-snippet",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/HTML/slide-bullets-build.sublime.snippet",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/HTML/html.sublime-snippet",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/theme/scss/phone.scss",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/HTML/Presentation/html5-pres-bullets-build.sublime-snippet",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/HTML/HTML.sublime-completions",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/html5/Presentation/html5-pres-bullets-build.sublime-snippet",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/theme/scss/default.scss",
+		"/Users/liam/github/local/JabberCanvas/Resources/presentation/js/test.js",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/html5/Presentation/html5-pres-segue.sublime-snippet",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/liam/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/liam/dev/canvas_slides/mine/slide_config.js",
+		"/Users/liam/dev/canvas_slides/mine/theme/scss/default.scss",
+		"/Users/liam/dev/canvas_slides/mine/template.html",
+		"/Users/liam/dev/headfirstjQuery/nodeapp/public/index.html",
+		"/Users/liam/github/local/JabberCanvas/jqueryUI/index.html",
+		"/Users/liam/dev/canvas_slides/mine/app.yaml",
+		"/Users/liam/dev/canvas_slides/mine/README.md",
+		"/Users/liam/github/local/JabberCanvas/.gitignore",
+		"/Users/liam/dev/headfirstjQuery/nodeapp/public/index1.html",
+		"/Users/liam/dev/headfirstjQuery/views/index.jade",
+		"/Users/liam/dev/headfirstjQuery/views/index.html",
+		"/Users/liam/dev/ecc_release/bin/csf.log"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/liam/github/local/JabberCanvas/Resources/presentation",
+			"/Users/liam/dev/nodeserver/app/newapp/client/iphone/tpl",
+			"/Users/liam/dev/nodeserver/app/newapp",
+			"/Users/liam/dev/nodeserver/app/backbone",
+			"/Users/liam/dev/nodeserver/modules",
+			"/Users/liam/dev/nodeserver"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstra",
+			"angular",
+			"Novemeber",
+			"h3",
+			"	<p>\n									<a class=\"btn\" href=\"#\">View details »</a>\n								</p>",
+			"<p>\n								<a class=\"btn\" href=\"#\">View details »</a>\n							</p>",
+			"span4",
+			"·  	",
+			".",
+			"·  	",
+			"sidebar",
+			"reveal .slide",
+			"max-wid",
+			".ul",
+			" - minimal install trending to zero",
+			" >",
+			"notransition",
+			"none",
+			"data-state=\"setTransitionToNone\"",
+			">\n",
+			"transi",
+			"transition",
+			"customevent",
+			"script",
+			"native",
+			"h1",
+			".h4",
+			"h1",
+			"small",
+			"h4",
+			"small",
+			"class=\"fragment\"",
+			"transition",
+			"nextFragment",
+			"frag",
+			"data-",
+			"<img",
+			"<img ",
+			">\n",
+			"small",
+			"<li",
+			"ul",
+			"h3",
+			"</h3>",
+			"<h3>",
+			"UI L",
+			"assert",
+			"ln",
+			"whati if any",
+			"container",
+			"iframe",
+			"arch",
+			"canvas",
+			"alert",
+			"class=\"fragment\"",
+			"div",
+			"framew",
+			"frame",
+			"offline",
+			".reveal img",
+			"width=\"100%\"",
+			"80%",
+			"height=\"553\" ",
+			"arch",
+			"atten",
+			"extend",
+			"initial",
+			"onDocumentKeyDown",
+			"keyboard",
+			"fullscreen",
+			"restart",
+			"ExitFullScreen",
+			"Request",
+			"fullscreen",
+			"+slideData",
+			"fullscree",
+			"fade",
+			" \n",
+			"{\n",
+			"referrer",
+			"config.js",
+			"notes/",
+			"notes/:socketId",
+			"notes.html",
+			"window.open",
+			"key",
+			"initial",
+			"readUr",
+			"readURL",
+			"API",
+			"slidechanged",
+			"fragmenthidden",
+			"slidechanged",
+			"socket",
+			"slidechanged",
+			"fragmentShown",
+			"fragmentshown",
+			"fragmentHidden",
+			"addEventListener",
+			"toSting",
+			"hang on",
+			"hang",
+			"<h2>",
+			"plugin",
+			"Reveal.",
+			"www",
+			"example",
+			"<li",
+			"							<",
+			"<li",
+			"multiCallContainer",
+			"class=\"fragment\"",
+			"<img ",
+			"fragment",
+			"Liam",
+			"html5F",
+			"html5",
+			"html",
+			"<li",
+			"-webkit-",
+			"300",
+			"-min.js",
+			"debug =false",
+			"debug = false",
+			".debug",
+			"BrowserDetect",
+			"unknow",
+			"word"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"FamilyCollection",
+			"\"/client/iphone"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 16096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16016,
+								16016
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6032.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/liam/git/local/chores/app/index.html",
+					"settings":
+					{
+						"buffer_size": 3487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 227.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/liam/.profile",
+					"settings":
+					{
+						"buffer_size": 4276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4044,
+								4044
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1292.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 246.0
+	},
+	"output.git":
+	{
+		"height": 273.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"jabber",
+				"css/theme/jabbersimple.css"
+			],
+			[
+				"inde",
+				"build/docs/index.html"
+			],
+			[
+				"j",
+				"/Users/liam/github/local/presentation/css/theme/jabbersimple.css"
+			],
+			[
+				"in",
+				"/Users/liam/github/local/presentation/index.html"
+			],
+			[
+				"jab",
+				"/Users/liam/github/local/presentation/css/theme/jabbersimple.css"
+			],
+			[
+				"templ",
+				"template.html"
+			],
+			[
+				"mylist",
+				"nodeserver/app/backbone/iphone/tpl/employee-list-item.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}
